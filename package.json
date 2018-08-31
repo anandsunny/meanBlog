@@ -1,0 +1,25 @@
+{
+  "name": "meanblog",
+  "version": "1.0.0",
+  "description": "mean blog app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandsunny/meanBlog.git"
+  },
+  "keywords": [
+    "mean",
+    "blog",
+    "app"
+  ],
+  "author": "anand panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandsunny/meanBlog/issues"
+  },
+  "homepage": "https://github.com/anandsunny/meanBlog#readme"
+}
